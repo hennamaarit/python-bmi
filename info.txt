@@ -1,0 +1,3 @@
+Hei! Tervetuloa painoindeksin ja metabolisen oireyhtymän laskentaohjelmaan! Anna omat tietosi alla oleviin kohtiin. Muistathan laittaa kokonaisluvun ja desimaalin väliin pilkun sijasta pisteen.
+Kiitos ohjelman testaamisesta! Tulokset eivät ole diagnooseja eikä yksistään niiden perusteella voida sairauksia diagnosoida. Jos tulokset tai oma terveydentilanne mietityttävät, ole yhteydessä omaan terveydenhuoltoon. 
+Käytetyt lähteet: Painoindeksilaskurin tiedot on laskettu sivuston: https://www.terveyskirjasto.fi/dlk01001/painoindeksi-bmi mukaisesti. Metabolisen oireyhtymän tiedot ovat saatu sivustolta: https://www.terveyskirjasto.fi/dlk00045. Alkoholin käytön kyselyn tiedot ovat sivustolta: https://paihdelinkki.fi/sites/default/files/audit-c_0.pdf. 
